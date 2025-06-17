@@ -17,6 +17,7 @@ import SignUp from "../Components/SignUp/SignUp";
 import WishList from "../Components/WishList/WishList";
 import TermsOfUse from "../Components/termsOfUse/TermsPage";
 import PaymentsPage from "../Components/PaymentPage/PaymentsPage";
+import CancellationPolicyPage from "../Components/Cancelation Policy/CancelationPolicy";
 
 
 
@@ -39,5 +40,6 @@ export const ROUTES_CONFIG = [
   {path:"/privacy",element:<PrivacyPage/>},
   {path: "/termsOfUse", element: <TermsOfUse/>},
   { path: "/payment", element: <PaymentsPage /> },
+  { path: "/cancelationPolicy", element: <CancellationPolicyPage /> },
   { path: "*", element: <NotFoundPage /> },
 ];
