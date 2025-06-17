@@ -4,72 +4,69 @@ import React from 'react';
 import './PrivacyPage.scss';
 
 const privacyPolicy = `
-**Privacy Policy**
+PRIVACY POLICY – SADHANA CART
+Disclaimer: In case of any discrepancy or difference, the English version of this Privacy Policy shall prevail over any translation.
+Sadhana Agro Tech ("Sadhana Cart", "we", "us", "our") values the trust you place in us. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information through our website www.sadhanacart.com, mobile site, and any other related services (collectively referred to as the “Platform”).
+By visiting or using our Platform, you agree to be bound by the terms and conditions of this Privacy Policy and our Terms of Use. If you do not agree, please do not use or access our Platform.
 
-**Effective Date:** [Insert Date]  
-**Disclaimer:** In case of any discrepancy or difference, the English version will take precedence over any translation.
+1. Collection of Your Information
+We collect your personal information including but not limited to:
+•	Name, address, email ID, phone number, and payment details
+•	Order history, browsing behavior, and preferences
+•	Communication via emails, calls, or feedback on our Platform or social media
+•	UPI or GST details if you are a registered business
+We may collect data directly or via cookies, forms, or third-party integrations.
 
-At **Sadhana Cart**, we value the trust you place in us and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and safeguard your personal data when you interact with our platform.
+2. Use of Information
+Your data helps us:
+•	Process and fulfill orders
+•	Improve product and service offerings
+•	Customize user experience
+•	Send promotional offers, updates, and transactional emails
+•	Comply with legal and regulatory requirements
+We may use your information for internal analysis, marketing, and to safeguard against fraud or abuse.
 
----
+3. Sharing of Information
+We may share your information:
+•	With delivery and logistics partners for order fulfillment
+•	With payment service providers and banks
+•	As required by law, legal processes, or regulatory authorities
+•	With analytics or advertising service providers (with consent)
+•	With our group companies or business partners in relation to the services we offer
+We do not sell your personal information to third parties for their own marketing use.
 
-### 1. Information We Collect
+4. Cookies
+We use cookies and similar tools for website functionality, personalization, and analytics. You can disable cookies via your browser settings, but this may affect Platform features.
 
-We collect limited personal information that you voluntarily provide when you:
+5. Security of Your Data
+We use reasonable administrative, physical, and technical safeguards to protect your data. However, internet transmission is not completely secure, and we cannot guarantee full security.
+You are responsible for maintaining the confidentiality of your account and password.
 
-- Create an account  
-- Place an order  
-- Contact customer support  
-- Subscribe to updates or promotional offers  
+6. Children’s Privacy
+Use of our Platform is only allowed for individuals above the age of 18. We do not knowingly collect information from children under 18.
 
-This may include your **name, email address, phone number, delivery address**, and **payment details**.
+7. Your Rights
+You have the right to:
+•	Access and correct your personal data via your account settings
+•	Withdraw your consent by contacting us (may affect service access)
+•	Opt out of promotional communications through your profile settings
 
----
+8. Data Retention
+We retain personal information as long as required for business or legal purposes. We may also retain anonymized data for research and analysis.
 
-### 2. How We Use Your Information
+9. Third-party Links
+Our Platform may contain links to third-party websites or apps. We are not responsible for their privacy practices and recommend reading their privacy policies before sharing information.
 
-Your data is used only to:
+10. Grievance Redressal
+If you have any complaints or concerns regarding your privacy or data, please contact our Grievance Officer:
+Name: B NIRMALA
+Designation: Proprietor, Sadhana Agro Tech
+Email: appasharan@gmail.com
+Address: FLAT NO.3, M.NO.1-11-400, NIJALINGAPPA NAGAR, RAICHUR, Karnataka, 584101
 
-- Process and deliver your orders  
-- Communicate order updates or support  
-- Improve our services and personalize your experience  
+11. Changes to This Policy
+We may update this Privacy Policy from time to time. The latest version will always be available on our Platform, and significant changes will be communicated to users as required by law.
 
-We **do not sell or rent** your personal data to third parties.
-
----
-
-### 3. Data Security
-
-We maintain strict security practices to protect your information against unauthorized access, disclosure, or misuse. Your personal details are stored on secure servers with encryption and access controls in place.
-
----
-
-### 4. Your Rights & Choices
-
-You have full control over your account and data. You may:
-
-- View and update your information by logging into your account  
-- Contact us to request deletion or correction of your data  
-- Opt out of promotional emails at any time  
-
----
-
-### 5. Your Consent
-
-By using our platform, you agree to the terms of this Privacy Policy and give your consent for the collection and use of your personal information as described.
-
----
-
-### 6. Contact Us
-
-For any questions, concerns, or data access requests, please contact us at:  
-📧 **privacy@sadhanacart.in**
-
----
-
-### 7. Updates to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted here, and your continued use of our services implies your acceptance of those changes.
 `;
 
 
